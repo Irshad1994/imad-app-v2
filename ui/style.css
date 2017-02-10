@@ -11,6 +11,8 @@ body {
 .text-big {
     font-size: 300%;
 }
+h1{color:red;
+}
 
 .bold {
     font-weight: bold;
